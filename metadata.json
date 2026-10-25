@@ -1,0 +1,6 @@
+{
+  "name": "EduFlow Studio - Video Bài Giảng AI 3 Bước",
+  "description": "Ứng dụng chuyên nghiệp dành cho giáo viên tạo video bài giảng qua 3 bước: Biên kịch (Script) -> Hình ảnh (Image với Nano Banana Pro) -> Video (Lip-sync với Veo/Omni).",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
